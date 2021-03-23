@@ -15,6 +15,7 @@ namespace CIS153_GitHubExample
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("Loaded");
         }
     }
 }
